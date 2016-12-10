@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="CSMART.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CSMART"
+    RequestedTheme="Light">
+
+</Application>
